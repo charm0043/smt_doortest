@@ -5,6 +5,8 @@
 ## Description
 초음파 센서를 이용하여 일정 거리 안에 사람이 감지되면 카메라가 켜지고 얼굴인식을 진행한다. 인가자임을 확인하면 모션인식을 진행하고 눈깜빡임(윙크)을 감지하면 문을 열어준다. 문이 열렸다는 알림을 휴대폰으로 보내준다. 비인가자라면 라즈베리파이 카메라로 사진을 찍어 어플로 넘겨주고 비정상적인 활동을 감지했다는 경고 알림을 보내준다.
 
+<img width="295" alt="구조" src="https://user-images.githubusercontent.com/59986061/177976819-38ab7f3c-9102-4620-b7fd-47230a8701a4.png">
+
 ##  Results
 [Hardware]
 
@@ -15,6 +17,8 @@
 <img width="360" alt="동작도" src="https://user-images.githubusercontent.com/59986061/177970917-b795bb5a-3d7b-4c64-aeff-383993d47674.png">
 
 [Software]
+
+<img width="320" alt="어플 알람" src="https://user-images.githubusercontent.com/59986061/177976562-771b84f5-5542-46b9-a0f8-d3700a4ba8c9.png">
 
 [Software 동작 흐름도]
 
